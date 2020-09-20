@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+My attributes :
+- ###### Quiet
+- likes programming
+- insert _poetic_ stuff here
+- *sleeps*
